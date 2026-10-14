@@ -1,1 +1,2 @@
-# banco_de_dados_1
+# 🗄️ Bancos de Dados 1
+Aprendizado sobre organização, armazenamento e utilização de dados em sistemas.
